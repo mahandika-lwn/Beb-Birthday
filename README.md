@@ -1,2 +1,2 @@
-# h_sebulan
-Access this site at https://mahandika-lwn.github.io/h_sebulan/
+# hbd_nata
+Access this site at https://mahandika-lwn.github.io/hbd_nata/

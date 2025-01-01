@@ -1,4 +1,4 @@
-// 霸都丶傲天 2019.10.10
+// Config Text
 $(function () {
     let dom = document.createElement("span");
     config.texts.forEach(function (item) {

@@ -37,7 +37,7 @@ var config = {
         
     },
     desc: {
-        turn_on: "Mau nyalaian lampu?",
+        turn_on: "Mau nyalain lampu?",
         play: "Coba putar musik?",
         bannar_coming: "Hayuuuk dekorasi!",
         balloons_flying: "Terbangkan balon yap!",

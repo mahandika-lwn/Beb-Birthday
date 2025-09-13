@@ -40,7 +40,7 @@ var config = {
         turn_on: "Mau nyalain lampu?",
         play: "Coba putar musik?",
         bannar_coming: "Hayuuuk dekorasi!",
-        balloons_flying: "Terbangkan balon yap!",
+        balloons_flying: "Terbangin balon yap!",
         cake_fadein: "Ehem, kue virtual?",
         light_candle: "Nyalakan lilin ya...",
         wish_message: "Panjang umurrr!",

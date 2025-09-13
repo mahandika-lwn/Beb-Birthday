@@ -12,7 +12,7 @@ var config = {
         "Ummm, bolehkah aku memberikan sepatah-dua patah kata?",
         "Alhamdulillah, ngga kerasa ya sayang, kita udah menjalin hubungan yang lumayan lama...",
         "Aku bersyukur sekali karena Bubu menjadi partner hidupku tercinta...",
-        "Aku juga bahagia karena bisa menjadi bagian dari kehidupan masnismu..",
+        "Aku juga bahagia karena bisa menjadi bagian dari kehidupan manismu..",
         "Ternyata sudah cukup banyak berbagai hal yang telah kita lalui ya...",
         "Badai pasti akan datang dan berlalu, dimanapun, kapanpun...",
         "Tapi aku yakin, kita bisa hadapi dan selesaikan bersama :)",

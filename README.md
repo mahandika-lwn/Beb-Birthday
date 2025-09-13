@@ -1,2 +1,2 @@
-# for_someone
-Access this site at https://mahandika-lwn.github.io/for-someone/
+# Beb-Birthday
+Access this site at https://mahandika-lwn.github.io/Beb-Birthday/

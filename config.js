@@ -33,7 +33,7 @@ var config = {
     ],
     
     imgs: {
-        "Halo Bubu Sayanggg!": "10.jpg",
+        "Halo Bubu Sayanggg!": "Nindi.jpg",
         
     },
     desc: {

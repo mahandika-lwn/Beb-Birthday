@@ -1,6 +1,6 @@
 var config = {
     texts: [
-        "Halo Bubu sayanggg :)",      
+        "Halo Bubu sayang",      
         "Gimana kabarnya? Semoga sehat selalu ya :)",  
         "Anw selamat bertambah umur ya Bubuuu!",
         "Sekalianlah, selamat merintis harapan baru di pertengahan tahun 2026 ini :D",
@@ -33,7 +33,7 @@ var config = {
     ],
     
     imgs: {
-        "Halo Bubu sayanggg :)": "./imgs/Nindi.png",
+        "Halo Bubu sayang": "./imgs/Nindi.png",
         
     },
     desc: {
